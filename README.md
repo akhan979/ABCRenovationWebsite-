@@ -4,4 +4,4 @@ The website is designed in one page, it is simple and contains everything a cust
 It is developed by Mohammad Asif Khan 
 Completion Date: April 2021
 
-This a link to a video that describe the website https://www.youtube.com/watch?v=644DZbEzZoE
+This is a link to a video that describe the website https://www.youtube.com/watch?v=644DZbEzZoE
